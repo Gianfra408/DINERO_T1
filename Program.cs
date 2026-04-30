@@ -19,6 +19,9 @@ class Program
     {
       Console.WriteLine("OPCION INVALIDA");
     }
-    
+    else if (OPCION == 1)
+    {
+      Console.WriteLine($"SU SALDO ES: S/{SALDO}");
+    }
     }
 }
