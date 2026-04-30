@@ -12,3 +12,4 @@ C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\refint\Dinero.dll
 C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\Dinero.pdb
 C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\Dinero.genruntimeconfig.cache
 C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\ref\Dinero.dll
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\Dinero.sourcelink.json
