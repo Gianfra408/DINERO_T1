@@ -1,0 +1,14 @@
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\bin\Debug\net9.0\Dinero.exe
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\bin\Debug\net9.0\Dinero.deps.json
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\bin\Debug\net9.0\Dinero.runtimeconfig.json
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\bin\Debug\net9.0\Dinero.dll
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\bin\Debug\net9.0\Dinero.pdb
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\Dinero.GeneratedMSBuildEditorConfig.editorconfig
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\Dinero.AssemblyInfoInputs.cache
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\Dinero.AssemblyInfo.cs
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\Dinero.csproj.CoreCompileInputs.cache
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\Dinero.dll
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\refint\Dinero.dll
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\Dinero.pdb
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\Dinero.genruntimeconfig.cache
+C:\FUNDAMENTO DE ALGORITMOS_HOME\T1\Dinero\obj\Debug\net9.0\ref\Dinero.dll
